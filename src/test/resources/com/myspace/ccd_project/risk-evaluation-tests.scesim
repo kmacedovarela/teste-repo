@@ -93,7 +93,6 @@
         </FactMapping>
       </factMappings>
       <type>RULE</type>
-      <ruleFlowGroup>risk-evaluation</ruleFlowGroup>
       <skipFromBuild>false</skipFromBuild>
       <stateless>false</stateless>
     </simulationDescriptor>
